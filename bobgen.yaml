@@ -1,0 +1,2 @@
+psql:
+  dsn: postgres://root:pass@localhost:5432/practice?sslmode=disable
